@@ -1,1 +1,1 @@
-# Quiz-application
+# Quizapp using java
